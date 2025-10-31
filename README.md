@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sandeep Reddy</h1>
+<h1 align="center">Hello! 👋</h1>
 <h3 align="center">A dedicated researcher from India specializing in Remote Sensing, GIS, and Data Science.
 </h3>
 
-<h3 align="left">Connect with me: sandeepreddy1107@gmail.comn</h3>
+<h3 align="left">Connect with me: email</h3>
 <p align="left">
 </p>
 
