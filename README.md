@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated researcher from India specializing in Remote Sensing, GIS, and Data Science.
 </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: sandeepreddy1107@gmail.comn</h3>
 <p align="left">
 </p>
 
